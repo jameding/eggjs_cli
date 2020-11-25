@@ -1,6 +1,6 @@
 # server_center_api
 
-智能床垫核心后端接口
+egg 后端接口
 
 ## 开发项目
 
