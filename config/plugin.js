@@ -13,5 +13,10 @@ module.exports = {
 	validate: {
 		enable: true,
 		package: 'egg-validate'
+	},
+	// 登录token生成以及验证
+	jwt: {
+		enable: true,
+		package: 'egg-jwt'
 	}
 };
